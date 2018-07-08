@@ -1,0 +1,19 @@
+{
+  "name": "debut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "filesaver": "^0.0.13",
+    "mkdirp": "^0.5.1",
+    "jquery": "^2.2.3",
+    "jsdom": "^8.4.1",
+    "unzip": "^0.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jevon Butler",
+  "license": "ISC"
+}

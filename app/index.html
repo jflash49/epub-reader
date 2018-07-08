@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+            <link rel="stylesheet" type="text/css" href="css/blended_layout.css">
+            <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css"/>
+             <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.css">
+        <title>Page Title</title>
+        <meta name="description" content="Write some words to describe your html page"/>
+    </head>
+<body>
+<div class="container-fluid">  
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">JReader</a>
+    </div>
+</div>
+</nav>
+   
+<div class="jumbotron">
+    <h1>Lorem Ipsum</h1><br>
+    <p>
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+</p>
+
+<h3>What is Lorem Ipsum?</h3>
+<p>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+
+</p>
+</div>
+<div class="pageLeftMenu">
+   <i id="left" class="fa fa-caret-left fa-5x">Left</i>
+  </div>
+  <div class="pageRightMenu">
+  <i id="right" class="fa fa-caret-right fa-5x">Right</i>
+  </div>
+<div class="Content">
+    <button class="directory" data-toggle="modal" data-target="#booksModal"> directory</button>
+ <form method="post" onSubmit="/load_directory">
+        <input id="files" type="file" name="files[]" multiple/>
+        <input class="submit" type="submit" value="Submit"/>
+        <br>
+        <output id="list"></output>
+    </form>
+   </div>
+   <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="display">
+</div>
+   <button id="check" class="btn btn-success">Next</button>
+<div class="pageFooter">
+    &copy;testing out
+</div>
+</div>
+<script  src="https://code.jquery.com/jquery-1.12.3.min.js"   
+integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="   
+crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+<script>
+var bookindex = 0;
+$(document).ready(function(){
+    $('#left').hide();
+    $('#right').hide();
+});
+    function read(book){
+          $('#check').click(function () {
+                $('.display').html();
+                //console.log(book[0][1][bookindex]);
+                display(book[0][2],book[0][1], bookindex);
+                bookindex += 1;
+                return false;
+            });
+    }
+     function display(book,data, index) {
+            var str = '';
+            str += data[index];
+            $('.display').html(str);
+            var src = book+'/'+ $('img').attr('src');
+            $('img').attr('src',src);
+            var link = book+'/'+$('.display link').attr('href');
+            $('.display link').attr('href',link);
+
+            return false;
+        }
+  
+    function books(){
+        $('.books').click(function(event){
+            event.preventDefault();
+            var book = $(this).html();
+            $.ajax({
+                url: "\load_tmp",
+                data: {data:book} ,
+                success: function(result){
+                    console.log(result);
+                    read(result);
+                    $('#check').show();
+                    bookindex = 0;
+                    }
+                
+            });
+            console.log(book);
+            return false; 
+        });
+    }
+    
+    $('.directory').click(function(event){
+        event.preventDefault();
+        $.ajax({
+        url: "\load_directory",
+        success: function(result){
+            var str = $(this).html();
+            str += result;
+            $(".display").html(result);
+            books();
+            }
+        });
+        return false;
+    })
+</script>
+
+
+</body>
+
+</html>

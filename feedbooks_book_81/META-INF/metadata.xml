@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/">
+<title>A Tale of Two Cities</title>
+<id>http://www.feedbooks.com/book/81</id>
+<author>
+  <name>Charles Dickens</name>
+  <uri>http://www.feedbooks.com/author/21</uri>
+</author>
+<published>2007-01-02T13:46:27Z</published>
+<updated>2015-03-06T16:41:53Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1859</dcterms:issued>
+<category term="FBFIC000000" label="Fiction" scheme="http://www.feedbooks.com/categories"/>
+<category term="FBFIC014000" label="Historical" scheme="http://www.feedbooks.com/categories"/>
+<summary>A Tale of Two Cities (1859) is the second historical novel by Charles Dickens, set in London and Paris before and during the French Revolution. It depicts the plight of the French proletariat under the brutal oppression of the French aristocracy i...</summary>
+<dcterms:extent>135,668 words</dcterms:extent>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="text/html" rel="alternate" href="http://generation.feedbooks.com/book/81" title="View on Feedbooks"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="http://generation.feedbooks.com/book/81.epub"/>
+<link type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" href="http://generation.feedbooks.com/book/81.mobi"/>
+<link type="application/pdf" rel="http://opds-spec.org/acquisition" href="http://generation.feedbooks.com/book/81.pdf"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="http://covers.feedbooks.net/book/81.jpg?size=large&amp;t=1425660113"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="http://covers.feedbooks.net/book/81.jpg?t=1425660113"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" rel="http://www.feedbooks.com/opds/same_author" href="http://generation.feedbooks.com/author/21/books/top.atom?lang=en" title="From the same author"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" href="http://generation.feedbooks.com/book/81/categories.atom" title="Categories for this book"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" href="http://generation.feedbooks.com/book/81/lists.atom" title="Reading lists for this book"/>
+<link type="application/atom+xml" thr:updated="2015-07-22T08:36:50Z" rel="replies" href="http://generation.feedbooks.com/book/81/comments.atom" thr:count="3" title="Comments for this book (3)"/>
+<link type="text/html" thr:updated="2015-07-22T08:36:50Z" rel="replies" href="http://generation.feedbooks.com/book/81/comments" thr:count="3" title="Comments for this book (3)"/>
+<content type="html">&lt;p&gt;A Tale of Two Cities (1859) is the second historical novel by Charles Dickens, set in London and Paris before and during the French Revolution. It depicts the plight of the French proletariat under the brutal oppression of the French aristocracy in the years leading up to the revolution, and the corresponding savage brutality demonstrated by the revolutionaries toward the former aristocrats in the early years of the revolution. It follows the lives of several protagonists through these events, most notably Charles Darnay, a French once-aristocrat who falls victim to the indiscriminate wrath of the revolution despite his virtuous nature, and Sydney Carton, a dissipated English barrister who endeavours to redeem his ill-spent life out of love for Darnay's wife, Lucie Manette.&lt;/p&gt;</content>
+<link type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" href="http://generation.feedbooks.com/book/81.atom"/>
+  <link type="application/atom+xml" rel="contents" href="http://generation.feedbooks.com/book/81/contents.atom"/>
+</entry>

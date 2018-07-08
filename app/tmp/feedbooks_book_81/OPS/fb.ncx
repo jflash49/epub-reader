@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+     xml:lang="en"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+
+    <meta name="dtb:uid" content="ee6f93c6-035c-11e6-ac59-4c72b9252ec6"/>
+
+    <meta name="dtb:depth" content="2"/>
+
+    <meta name="dtb:totalPageCount" content="0"/>
+
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+
+ <docTitle>
+   <text>A Tale of Two Cities</text>
+ </docTitle>
+
+ <docAuthor>
+   <text>Dickens, Charles</text>
+ </docAuthor>
+
+    <navMap>
+
+    <navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel><text>Title</text></navLabel>
+      <content src="title.xml"/>
+    </navPoint>
+
+    <navPoint class="about" id="level1-about" playOrder="2">
+      <navLabel><text>About</text></navLabel>
+      <content src="about.xml"/>
+    </navPoint>
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="part3207" playOrder="3">
+  <navLabel><text>Part 1 - Recalled to Life</text></navLabel> 
+  <content src="main0.xml"/>
+   
+  
+   
+  
+    
+      
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3208" playOrder="4">
+  <navLabel><text>Chapter 1 - The Period</text></navLabel> 
+  <content src="main1.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3210" playOrder="5">
+  <navLabel><text>Chapter 2 - The Mail</text></navLabel> 
+  <content src="main2.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3212" playOrder="6">
+  <navLabel><text>Chapter 3 - The Night Shadows</text></navLabel> 
+  <content src="main3.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3214" playOrder="7">
+  <navLabel><text>Chapter 4 - The Preparation</text></navLabel> 
+  <content src="main4.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3216" playOrder="8">
+  <navLabel><text>Chapter 5 - The Wine-shop</text></navLabel> 
+  <content src="main5.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3218" playOrder="9">
+  <navLabel><text>Chapter 6 - The Shoemaker</text></navLabel> 
+  <content src="main6.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="part3220" playOrder="10">
+  <navLabel><text>Part 2 - The Golden Thread</text></navLabel> 
+  <content src="main7.xml"/>
+   
+  
+   
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3221" playOrder="11">
+  <navLabel><text>Chapter 1 - Five Years Later</text></navLabel> 
+  <content src="main8.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3223" playOrder="12">
+  <navLabel><text>Chapter 2 - A Sight</text></navLabel> 
+  <content src="main9.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3225" playOrder="13">
+  <navLabel><text>Chapter 3 - A Disappointment</text></navLabel> 
+  <content src="main10.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3227" playOrder="14">
+  <navLabel><text>Chapter 4 - Congratulatory</text></navLabel> 
+  <content src="main11.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3229" playOrder="15">
+  <navLabel><text>Chapter 5 - The Jackal</text></navLabel> 
+  <content src="main12.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3231" playOrder="16">
+  <navLabel><text>Chapter 6 - Hundreds of People</text></navLabel> 
+  <content src="main13.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3233" playOrder="17">
+  <navLabel><text>Chapter 7 - Monseigneur in Town</text></navLabel> 
+  <content src="main14.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3235" playOrder="18">
+  <navLabel><text>Chapter 8 - Monseigneur in the Country</text></navLabel> 
+  <content src="main15.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3237" playOrder="19">
+  <navLabel><text>Chapter 9 - The Gorgon’s Head</text></navLabel> 
+  <content src="main16.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3239" playOrder="20">
+  <navLabel><text>Chapter 10 - Two Promises</text></navLabel> 
+  <content src="main17.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3241" playOrder="21">
+  <navLabel><text>Chapter 11 - A Companion Picture</text></navLabel> 
+  <content src="main18.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3243" playOrder="22">
+  <navLabel><text>Chapter 12 - The Fellow of Delicacy</text></navLabel> 
+  <content src="main19.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3245" playOrder="23">
+  <navLabel><text>Chapter 13 - The Fellow of No Delicacy</text></navLabel> 
+  <content src="main20.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3247" playOrder="24">
+  <navLabel><text>Chapter 14 - The Honest Tradesman</text></navLabel> 
+  <content src="main21.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3249" playOrder="25">
+  <navLabel><text>Chapter 15 - Knitting</text></navLabel> 
+  <content src="main22.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3251" playOrder="26">
+  <navLabel><text>Chapter 16 - Still Knitting</text></navLabel> 
+  <content src="main23.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3253" playOrder="27">
+  <navLabel><text>Chapter 17 - One Night</text></navLabel> 
+  <content src="main24.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3255" playOrder="28">
+  <navLabel><text>Chapter 18 - Nine Days</text></navLabel> 
+  <content src="main25.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3257" playOrder="29">
+  <navLabel><text>Chapter 19 - An Opinion</text></navLabel> 
+  <content src="main26.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3259" playOrder="30">
+  <navLabel><text>Chapter 20 - A Plea</text></navLabel> 
+  <content src="main27.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3261" playOrder="31">
+  <navLabel><text>Chapter 21 - Echoing Footsteps</text></navLabel> 
+  <content src="main28.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3263" playOrder="32">
+  <navLabel><text>Chapter 22 - The Sea still Rises</text></navLabel> 
+  <content src="main29.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3265" playOrder="33">
+  <navLabel><text>Chapter 23 - Fire Rises</text></navLabel> 
+  <content src="main30.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3267" playOrder="34">
+  <navLabel><text>Chapter 24 - Drawn to the Loadstone Rock</text></navLabel> 
+  <content src="main31.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="part" id="part3269" playOrder="35">
+  <navLabel><text>Part 3 - The Track of a Storm</text></navLabel> 
+  <content src="main32.xml"/>
+   
+  
+   
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3270" playOrder="36">
+  <navLabel><text>Chapter 1 - In Secret</text></navLabel> 
+  <content src="main33.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3272" playOrder="37">
+  <navLabel><text>Chapter 2 - The Grindstone</text></navLabel> 
+  <content src="main34.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3274" playOrder="38">
+  <navLabel><text>Chapter 3 - The Shadow</text></navLabel> 
+  <content src="main35.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3276" playOrder="39">
+  <navLabel><text>Chapter 4 - Calm in Storm</text></navLabel> 
+  <content src="main36.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3278" playOrder="40">
+  <navLabel><text>Chapter 5 - The Wood-sawyer</text></navLabel> 
+  <content src="main37.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3280" playOrder="41">
+  <navLabel><text>Chapter 6 - Triumph</text></navLabel> 
+  <content src="main38.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3282" playOrder="42">
+  <navLabel><text>Chapter 7 - A Knock at the Door</text></navLabel> 
+  <content src="main39.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3284" playOrder="43">
+  <navLabel><text>Chapter 8 - A Hand at Cards</text></navLabel> 
+  <content src="main40.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3286" playOrder="44">
+  <navLabel><text>Chapter 9 - The Game Made</text></navLabel> 
+  <content src="main41.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3288" playOrder="45">
+  <navLabel><text>Chapter 10 - The Substance of the Shadow</text></navLabel> 
+  <content src="main42.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3290" playOrder="46">
+  <navLabel><text>Chapter 11 - Dusk</text></navLabel> 
+  <content src="main43.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3292" playOrder="47">
+  <navLabel><text>Chapter 12 - Darkness</text></navLabel> 
+  <content src="main44.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3294" playOrder="48">
+  <navLabel><text>Chapter 13 - Fifty-two</text></navLabel> 
+  <content src="main45.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3296" playOrder="49">
+  <navLabel><text>Chapter 14 - The Knitting Done</text></navLabel> 
+  <content src="main46.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap3298" playOrder="50">
+  <navLabel><text>Chapter 15 - The Footsteps Die Out For Ever</text></navLabel> 
+  <content src="main47.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+      
+    
+  
+</navPoint>
+
+
+
+  </navMap>
+
+
+</ncx>
