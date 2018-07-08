@@ -6,7 +6,7 @@
   "dependencies": {
     "filesaver": "^0.0.13",
     "mkdirp": "^0.5.1",
-    "jquery": "^2.2.3",
+    "jquery": "~>3.0.0",
     "jsdom": "^8.4.1",
     "unzip": "^0.1.11"
   },
